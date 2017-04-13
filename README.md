@@ -26,7 +26,7 @@ We also have aspirational, long-term goals for a more fully-established project 
   interfaces in any platform or UI framework
 - Provide a standard, self-hostable HTML UI frontend for quick and easy display of a generated
   user interface based on a target module or set of modules.
-- Enable UI integration hooks so that gnenerated UI can be seamlessly integrated into existing
+- Enable UI integration hooks so that generated UI can be seamlessly integrated into existing
   crafted UI
 - Provide script generation for operations exposed in the UI so that users can learn how to
   automate the tasks that they have performed
